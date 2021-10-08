@@ -1,0 +1,2250 @@
+[
+    {
+        "@id": "urn:ucode:_00001C000000000000010000031010D4",
+        "@type": "odpt:StationTimetable",
+        "dc:date": "2021-03-13T11:00:00+09:00",
+        "@context": "http://vocab.odpt.org/context_odpt.jsonld",
+        "dct:issued": "2021-03-13",
+        "owl:sameAs": "odpt.StationTimetable:TokyoMetro.Marunouchi.Tokyo.TokyoMetro.Ikebukuro.SaturdayHoliday",
+        "odpt:railway": "odpt.Railway:TokyoMetro.Marunouchi",
+        "odpt:station": "odpt.Station:TokyoMetro.Marunouchi.Tokyo",
+        "odpt:calendar": "odpt.Calendar:SaturdayHoliday",
+        "odpt:operator": "odpt.Operator:TokyoMetro",
+        "odpt:railDirection": "odpt.RailDirection:TokyoMetro.Ikebukuro",
+        "odpt:stationTimetableObject": [
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B529",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B529",
+                "odpt:departureTime": "05:19",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B533",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B533",
+                "odpt:departureTime": "05:34",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B531",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B531",
+                "odpt:departureTime": "05:48",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B535",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B535",
+                "odpt:departureTime": "06:00",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B5392",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B5392",
+                "odpt:departureTime": "06:10",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B5412",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B5412",
+                "odpt:departureTime": "06:19",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B545",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B545",
+                "odpt:departureTime": "06:23",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B501",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B501",
+                "odpt:departureTime": "06:30",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B607",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B607",
+                "odpt:departureTime": "06:36",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B647",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B647",
+                "odpt:departureTime": "06:41",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B605",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B605",
+                "odpt:departureTime": "06:47",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B603",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B603",
+                "odpt:departureTime": "06:54",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B649",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B649",
+                "odpt:departureTime": "07:00",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B609",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B609",
+                "odpt:departureTime": "07:06",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B629",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B629",
+                "odpt:departureTime": "07:12",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B651",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B651",
+                "odpt:departureTime": "07:18",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B633",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B633",
+                "odpt:departureTime": "07:24",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B625",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B625",
+                "odpt:departureTime": "07:29",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B731",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B731",
+                "odpt:departureTime": "07:36",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B711",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B711",
+                "odpt:departureTime": "07:42",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B753",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B753",
+                "odpt:departureTime": "07:46",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B735",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B735",
+                "odpt:departureTime": "07:51",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B727",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B727",
+                "odpt:departureTime": "07:55",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B739",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B739",
+                "odpt:departureTime": "08:01",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B741",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B741",
+                "odpt:departureTime": "08:06",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B755",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B755",
+                "odpt:departureTime": "08:11",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B745",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B745",
+                "odpt:departureTime": "08:15",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B701",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B701",
+                "odpt:departureTime": "08:19",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B757",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B757",
+                "odpt:departureTime": "08:23",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B707",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B707",
+                "odpt:departureTime": "08:27",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B747",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B747",
+                "odpt:departureTime": "08:31",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B843",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B843",
+                "odpt:departureTime": "08:35",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B805",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B805",
+                "odpt:departureTime": "08:39",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B859",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B859",
+                "odpt:departureTime": "08:43",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B803",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B803",
+                "odpt:departureTime": "08:47",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B837",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B837",
+                "odpt:departureTime": "08:51",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B849",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B849",
+                "odpt:departureTime": "08:55",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B809",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B809",
+                "odpt:departureTime": "08:59",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B829",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B829",
+                "odpt:departureTime": "09:03",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B851",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B851",
+                "odpt:departureTime": "09:07",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B813",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B813",
+                "odpt:departureTime": "09:11",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B833",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B833",
+                "odpt:departureTime": "09:15",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B815",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B815",
+                "odpt:departureTime": "09:19",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B825",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B825",
+                "odpt:departureTime": "09:23",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B831",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B831",
+                "odpt:departureTime": "09:27",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B811",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B811",
+                "odpt:departureTime": "09:31",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B953",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B953",
+                "odpt:departureTime": "09:35",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B917",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B917",
+                "odpt:departureTime": "09:39",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B935",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B935",
+                "odpt:departureTime": "09:43",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B927",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B927",
+                "odpt:departureTime": "09:47",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B939",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B939",
+                "odpt:departureTime": "09:51",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B941",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B941",
+                "odpt:departureTime": "09:55",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B901",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B901",
+                "odpt:departureTime": "09:59",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B955",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B955",
+                "odpt:departureTime": "10:03",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B945",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B945",
+                "odpt:departureTime": "10:07",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B957",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B957",
+                "odpt:departureTime": "10:11",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B907",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B907",
+                "odpt:departureTime": "10:15",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B905",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B905",
+                "odpt:departureTime": "10:19",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B947",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B947",
+                "odpt:departureTime": "10:23",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B943",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B943",
+                "odpt:departureTime": "10:27",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B959",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B959",
+                "odpt:departureTime": "10:31",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1003",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1003",
+                "odpt:departureTime": "10:35",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1009",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1009",
+                "odpt:departureTime": "10:39",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1037",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1037",
+                "odpt:departureTime": "10:43",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1049",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1049",
+                "odpt:departureTime": "10:47",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1029",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1029",
+                "odpt:departureTime": "10:51",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1051",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1051",
+                "odpt:departureTime": "10:55",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1015",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1015",
+                "odpt:departureTime": "10:59",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1013",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1013",
+                "odpt:departureTime": "11:03",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1033",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1033",
+                "odpt:departureTime": "11:07",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1025",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1025",
+                "odpt:departureTime": "11:11",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1031",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1031",
+                "odpt:departureTime": "11:15",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1017",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1017",
+                "odpt:departureTime": "11:19",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1011",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1011",
+                "odpt:departureTime": "11:23",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1053",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1053",
+                "odpt:departureTime": "11:27",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1035",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1035",
+                "odpt:departureTime": "11:31",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1127",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1127",
+                "odpt:departureTime": "11:35",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1101",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1101",
+                "odpt:departureTime": "11:39",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1139",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1139",
+                "odpt:departureTime": "11:43",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1141",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1141",
+                "odpt:departureTime": "11:47",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1155",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1155",
+                "odpt:departureTime": "11:51",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1145",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1145",
+                "odpt:departureTime": "11:55",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1105",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1105",
+                "odpt:departureTime": "11:59",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1157",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1157",
+                "odpt:departureTime": "12:03",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1107",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1107",
+                "odpt:departureTime": "12:07",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1147",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1147",
+                "odpt:departureTime": "12:11",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1143",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1143",
+                "odpt:departureTime": "12:15",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1109",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1109",
+                "odpt:departureTime": "12:19",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1159",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1159",
+                "odpt:departureTime": "12:23",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1103",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1103",
+                "odpt:departureTime": "12:27",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1137",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1137",
+                "odpt:departureTime": "12:31",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1249",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1249",
+                "odpt:departureTime": "12:35",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1215",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1215",
+                "odpt:departureTime": "12:39",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1229",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1229",
+                "odpt:departureTime": "12:43",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1251",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1251",
+                "odpt:departureTime": "12:47",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1213",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1213",
+                "odpt:departureTime": "12:51",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1233",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1233",
+                "odpt:departureTime": "12:55",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1217",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1217",
+                "odpt:departureTime": "12:59",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1225",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1225",
+                "odpt:departureTime": "13:03",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1231",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1231",
+                "odpt:departureTime": "13:07",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1211",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1211",
+                "odpt:departureTime": "13:11",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1253",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1253",
+                "odpt:departureTime": "13:15",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1201",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1201",
+                "odpt:departureTime": "13:19",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1235",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1235",
+                "odpt:departureTime": "13:23",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1227",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1227",
+                "odpt:departureTime": "13:27",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1239",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1239",
+                "odpt:departureTime": "13:31",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1341",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1341",
+                "odpt:departureTime": "13:35",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1305",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1305",
+                "odpt:departureTime": "13:39",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1355",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1355",
+                "odpt:departureTime": "13:43",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1345",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1345",
+                "odpt:departureTime": "13:47",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1357",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1357",
+                "odpt:departureTime": "13:51",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1307",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1307",
+                "odpt:departureTime": "13:55",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1309",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1309",
+                "odpt:departureTime": "13:59",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1347",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1347",
+                "odpt:departureTime": "14:03",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1343",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1343",
+                "odpt:departureTime": "14:07",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1359",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1359",
+                "odpt:departureTime": "14:11",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1303",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1303",
+                "odpt:departureTime": "14:15",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1315",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1315",
+                "odpt:departureTime": "14:19",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1337",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1337",
+                "odpt:departureTime": "14:23",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1349",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1349",
+                "odpt:departureTime": "14:27",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1329",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1329",
+                "odpt:departureTime": "14:31",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1451",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1451",
+                "odpt:departureTime": "14:35",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1417",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1417",
+                "odpt:departureTime": "14:39",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1413",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1413",
+                "odpt:departureTime": "14:43",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1433",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1433",
+                "odpt:departureTime": "14:47",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1425",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1425",
+                "odpt:departureTime": "14:51",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1431",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1431",
+                "odpt:departureTime": "14:55",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1401",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1401",
+                "odpt:departureTime": "14:59",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1411",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1411",
+                "odpt:departureTime": "15:03",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1453",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1453",
+                "odpt:departureTime": "15:07",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1435",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1435",
+                "odpt:departureTime": "15:11",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1427",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1427",
+                "odpt:departureTime": "15:15",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1405",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1405",
+                "odpt:departureTime": "15:19",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1439",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1439",
+                "odpt:departureTime": "15:23",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1441",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1441",
+                "odpt:departureTime": "15:27",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1455",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1455",
+                "odpt:departureTime": "15:31",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1545",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1545",
+                "odpt:departureTime": "15:35",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1509",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1509",
+                "odpt:departureTime": "15:39",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1557",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1557",
+                "odpt:departureTime": "15:43",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1507",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1507",
+                "odpt:departureTime": "15:47",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1547",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1547",
+                "odpt:departureTime": "15:51",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1543",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1543",
+                "odpt:departureTime": "15:55",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1515",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1515",
+                "odpt:departureTime": "15:59",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1559",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1559",
+                "odpt:departureTime": "16:03",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1503",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1503",
+                "odpt:departureTime": "16:07",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1537",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1537",
+                "odpt:departureTime": "16:11",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1549",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1549",
+                "odpt:departureTime": "16:15",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1517",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1517",
+                "odpt:departureTime": "16:19",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1529",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1529",
+                "odpt:departureTime": "16:23",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1551",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1551",
+                "odpt:departureTime": "16:27",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1513",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1513",
+                "odpt:departureTime": "16:31",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1633",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1633",
+                "odpt:departureTime": "16:35",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1601",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1601",
+                "odpt:departureTime": "16:39",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1625",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1625",
+                "odpt:departureTime": "16:43",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1631",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1631",
+                "odpt:departureTime": "16:47",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1611",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1611",
+                "odpt:departureTime": "16:51",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1653",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1653",
+                "odpt:departureTime": "16:55",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1605",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1605",
+                "odpt:departureTime": "16:59",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1635",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1635",
+                "odpt:departureTime": "17:03",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1627",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1627",
+                "odpt:departureTime": "17:07",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1619",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1619",
+                "odpt:departureTime": "17:11",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1641",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1641",
+                "odpt:departureTime": "17:15",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1609",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1609",
+                "odpt:departureTime": "17:19",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1655",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1655",
+                "odpt:departureTime": "17:23",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1645",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1645",
+                "odpt:departureTime": "17:27",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1657",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1657",
+                "odpt:departureTime": "17:31",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1707",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1707",
+                "odpt:departureTime": "17:35",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1715",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1715",
+                "odpt:departureTime": "17:39",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1747",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1747",
+                "odpt:departureTime": "17:43",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1743",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1743",
+                "odpt:departureTime": "17:47",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1759",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1759",
+                "odpt:departureTime": "17:51",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1703",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1703",
+                "odpt:departureTime": "17:55",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1717",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1717",
+                "odpt:departureTime": "17:59",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1737",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1737",
+                "odpt:departureTime": "18:03",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1749",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1749",
+                "odpt:departureTime": "18:07",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1729",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1729",
+                "odpt:departureTime": "18:11",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1751",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1751",
+                "odpt:departureTime": "18:15",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1701",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1701",
+                "odpt:departureTime": "18:19",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1713",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1713",
+                "odpt:departureTime": "18:23",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1733",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1733",
+                "odpt:departureTime": "18:27",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1721",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1721",
+                "odpt:departureTime": "18:31",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1831",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1831",
+                "odpt:departureTime": "18:35",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1805",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1805",
+                "odpt:departureTime": "18:39",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1811",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1811",
+                "odpt:departureTime": "18:43",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1853",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1853",
+                "odpt:departureTime": "18:47",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1835",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1835",
+                "odpt:departureTime": "18:51",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1827",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1827",
+                "odpt:departureTime": "18:55",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1809",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1809",
+                "odpt:departureTime": "18:59",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1819",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1819",
+                "odpt:departureTime": "19:03",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1841",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1841",
+                "odpt:departureTime": "19:07",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1855",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1855",
+                "odpt:departureTime": "19:11",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1845",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1845",
+                "odpt:departureTime": "19:15",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1815",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1815",
+                "odpt:departureTime": "19:19",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1857",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1857",
+                "odpt:departureTime": "19:23",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1807",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1807",
+                "odpt:departureTime": "19:27",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1847",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1847",
+                "odpt:departureTime": "19:31",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1943",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1943",
+                "odpt:departureTime": "19:35",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1917",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1917",
+                "odpt:departureTime": "19:39",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1959",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1959",
+                "odpt:departureTime": "19:43",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1903",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1903",
+                "odpt:departureTime": "19:47",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1937",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1937",
+                "odpt:departureTime": "19:51",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1949",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1949",
+                "odpt:departureTime": "19:55",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1901",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1901",
+                "odpt:departureTime": "19:59",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1929",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1929",
+                "odpt:departureTime": "20:03",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1951",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1951",
+                "odpt:departureTime": "20:07",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1913",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1913",
+                "odpt:departureTime": "20:11",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1933",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1933",
+                "odpt:departureTime": "20:16",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1921",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1921",
+                "odpt:departureTime": "20:21",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1923",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1923",
+                "odpt:departureTime": "20:26",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B1911",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B1911",
+                "odpt:departureTime": "20:32",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2053",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2053",
+                "odpt:departureTime": "20:37",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2009",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2009",
+                "odpt:departureTime": "20:41",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2027",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2027",
+                "odpt:departureTime": "20:46",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2019",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2019",
+                "odpt:departureTime": "20:51",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2041",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2041",
+                "odpt:departureTime": "20:56",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2055",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2055",
+                "odpt:departureTime": "21:01",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2045",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2045",
+                "odpt:departureTime": "21:06",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2057",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2057",
+                "odpt:departureTime": "21:12",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2007",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2007",
+                "odpt:departureTime": "21:18",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2047",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2047",
+                "odpt:departureTime": "21:24",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2017",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2017",
+                "odpt:departureTime": "21:29",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2159",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2159",
+                "odpt:departureTime": "21:34",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2103",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2103",
+                "odpt:departureTime": "21:39",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2149",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2149",
+                "odpt:departureTime": "21:43",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2101",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2101",
+                "odpt:departureTime": "21:48",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2129",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2129",
+                "odpt:departureTime": "21:52",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2151",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2151",
+                "odpt:departureTime": "21:57",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2113",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2113",
+                "odpt:departureTime": "22:02",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2133",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2133",
+                "odpt:departureTime": "22:07",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2121",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2121",
+                "odpt:departureTime": "22:12",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2123",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2123",
+                "odpt:departureTime": "22:17",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2111",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2111",
+                "odpt:departureTime": "22:23",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2153",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2153",
+                "odpt:departureTime": "22:28",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2209",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2209",
+                "odpt:departureTime": "22:33",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2227",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2227",
+                "odpt:departureTime": "22:40",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2219",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2219",
+                "odpt:departureTime": "22:46",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2255",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2255",
+                "odpt:departureTime": "22:53",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2245",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2245",
+                "odpt:departureTime": "22:59",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2257",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2257",
+                "odpt:departureTime": "23:06",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2247",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2247",
+                "odpt:departureTime": "23:13",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2217",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2217",
+                "odpt:departureTime": "23:19",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2259",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2259",
+                "odpt:departureTime": "23:25",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2349",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2349",
+                "odpt:departureTime": "23:34",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2329",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2329",
+                "odpt:departureTime": "23:42",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2351",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2351",
+                "odpt:departureTime": "23:50",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2313",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2313",
+                "odpt:departureTime": "23:58",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2321",
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2321",
+                "odpt:departureTime": "00:05",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            },
+            {
+                "odpt:train": "odpt.Train:TokyoMetro.Marunouchi.B2323",
+                "odpt:isLast": true,
+                "odpt:trainType": "odpt.TrainType:TokyoMetro.Local",
+                "odpt:trainNumber": "B2323",
+                "odpt:departureTime": "00:13",
+                "odpt:destinationStation": [
+                    "odpt.Station:TokyoMetro.Marunouchi.Ikebukuro"
+                ]
+            }
+        ]
+    }
+]
