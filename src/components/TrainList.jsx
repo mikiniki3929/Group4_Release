@@ -1,4 +1,4 @@
-import { getCurrentTime, getJsonTimeArray } from "../server-side-program/functions";
+import { getCurrentTime, getJsonTimeArray, findOriginIndex, trainListMaker } from "../server-side-program/functions";
 import timeTableGinza from "../open-data/timeTableGinzaToIkebukuro.json";
 import timeTableTokyo from "../open-data/timeTableTokyoToIkebukuro.json";
 
