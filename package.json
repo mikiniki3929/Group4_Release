@@ -1,7 +1,6 @@
 {
   "name": "data-challenge-four",
   "version": "0.1.0",
-  "homepage": "https://mikiniki3929.github.io/Group4_Release",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
@@ -32,7 +31,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy":"npm run build && gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
