@@ -10,7 +10,6 @@ import { PriorityHigh } from '@material-ui/icons';
 import { Paper } from '@material-ui/core';
 import { Timetable } from './components/Timetable';
 import Direction from './components/Direction';
-import Select_Emergency from './components/Select_emergency';
 
 //Footerのローカルcss
 const useStyle = makeStyles(() => ({
